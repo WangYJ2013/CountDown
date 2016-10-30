@@ -1,0 +1,10 @@
+Documents:
+1.Software history
+Based on python language, a lot of work[1] can be refered to start my project. It has already been finished as a basic countdown program. But it might not be user-friendly one. Its drawbacks are listed as follows:
+(1)It doesnot have a pretty GUI. The dialogue box is too small.
+(2)The textbox is not set properly. No labels is used before or after that box.
+(3)It might be useful to have a loop setting. [This is for my personal use.]
+(4)I hope we shall have a time countdown rather than the number.
+
+Ref:
+1.http://blog.163.com/lvhuiwei@126/blog/static/883252082010917102520597/
